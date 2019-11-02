@@ -1,3 +1,1 @@
-# estudo-javascript
-
-iniciando estudos com javascript
+# conceitos básicos
